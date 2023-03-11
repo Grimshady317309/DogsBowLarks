@@ -1,0 +1,23 @@
+here are the steps to replicate the matrix movie in your Kali Linux terminal
+ 
+sudo curl -L https://raw.githubusercontent.com/will8211/unimatrix/master/unimatrix.py -o /usr/local/bin/unimatrix
+ 
+sudo chmod a+rx /usr/local/bin/unimatrix 
+ 
+unimatrix -l s -l k -b -s 96 
+ 
+This should turn your terminal into the data stream off the movie.
+ 
+then you need to install the retro terminal.
+ 
+sudo apt install cool-retro-term
+ 
+after you have done that you will find it in the applications menu under " Cool Retro Term"
+ 
+In this terminal right click on the display to change the color to green and retype 
+ 
+unimatrix -l s -l k -b -s 96
+
+And for the message  to Neo I just typed it out in nano text editor LOL.
+ 
+and thats it hope you enjoy :)
